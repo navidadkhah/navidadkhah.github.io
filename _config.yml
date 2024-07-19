@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Nawid Dadkhah / Site Title"
+title                    : "Nawid Dadkhah"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Nawid Dadkhah"
 description              : &description "personal description"
 url                      : https://nawidadkhah.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,10 +25,10 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Tehran, IRAN"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "nnd1380@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
