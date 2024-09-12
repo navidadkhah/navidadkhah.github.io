@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Navid Dadkhah"
 title_separator          : "-"
 name                     : &name "Navid Dadkhah"
-description              : &description "I am an ungraduated senior student at Shahid Beheshti University"
+description              : &description "personal description"
 url                      : https://navidadkhah.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "navidadkhah/navidadkhah.github.io"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Navid Dadkhah"
-  pronouns         : # example: "she/her"  
+  pronouns         : 
   bio              : "B.S. Student in CS @ Shahid Beheshti University"
   location         : "Tehran, IRAN"
   employer         : 
@@ -262,13 +262,13 @@ defaults:
       share: true
       comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 
 # Sass/SCSS
