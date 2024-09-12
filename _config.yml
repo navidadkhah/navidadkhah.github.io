@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Nawid Dadkhah"
+title                    : "Navid Dadkhah"
 title_separator          : "-"
-name                     : &name "Nawid Dadkhah"
-description              : &description "I am a ungraduated senior student at Shahid Beheshti University"
-url                      : https://nawidadkhah.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Navid Dadkhah"
+description              : &description "I am an ungraduated senior student at Shahid Beheshti University"
+url                      : https://navidadkhah.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nawidadkhah/nawidadkhah.github.io"
+repository               : "navidadkhah/navidadkhah.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,7 +22,7 @@ repository               : "nawidadkhah/nawidadkhah.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Navid Dadkhah"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Tehran, IRAN"
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "Navid Dadkhah"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
