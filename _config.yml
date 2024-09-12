@@ -24,9 +24,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Navid Dadkhah"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "B.S. Student in CS @ Shahid Beheshti University"
   location         : "Tehran, IRAN"
-  employer         : "Red Brick University"
+  employer         : 
   uri              :
   email            : "navidadkhah@gmail.com" 
 
@@ -43,6 +43,7 @@ author:
   bitbucket        : 
   codepen          : 
   dribbble         : 
+  linkedin         : "Navid Dadkhah"
   github           : "navidadkhah"
   kaggle           : 
   stackoverflow    : 
@@ -57,7 +58,6 @@ author:
   keybase          : 
   instagram        : 
   lastfm           : 
-  linkedin         : "Navid Dadkhah"
   mastodon         : 
   medium           : 
   pinterest        : 
