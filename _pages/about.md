@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior computer engineering student at Computer Engineering at [Shahid Beheshti University](https://encse.sbu.ac.ir/).
+I am a senior computer engineering student at Computer Engineering at [Shahid Beheshti University](https://encse.sbu.ac.ir/).<br>
 I work as a Teaching Assistant for many courses at Shahid Beheshti University.
 
 ## Research Interests
