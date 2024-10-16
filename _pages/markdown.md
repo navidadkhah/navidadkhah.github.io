@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-- [AI Projects](#AI)
+- [AI Projects](#ai-projects)
 
 ##  Lunar Lander with DRL ( Jun. 2024 )
 
