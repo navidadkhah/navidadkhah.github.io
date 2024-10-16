@@ -8,11 +8,12 @@ redirect_from:
 ---
 
 
-<div align="center">
-  
-[AI Projects](#ai-projects)          -            [Software Projects](#software-projects)       -           [Hardware Projects](#hardware-projects)    
+<p align="center">
+  <a href="#ai-projects">AI Projects</a> - 
+  <a href="#software-projects">Software Projects</a> - 
+  <a href="#hardware-projects">Hardware Projects</a>
+</p>
 
-</div>
 
 # AI Projects
 
