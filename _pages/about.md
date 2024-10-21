@@ -15,7 +15,7 @@ Currently, I am working on Fine-tuning and prompt engineering in Large Language 
 My research interests include Natural Language Processing with applications in Large Language Models. I intend to better understand these methods in a principled manner by investigating their underlying mathematics and their practical implications in real life. 
 My research goal is to channel such a better theoretical and functional understanding of these new methods toward better practical solutions for problems.
 
-# Research Interests
+## Research Interests
 - Large Language Models
 - Natural Language Processing
 - Applied Machine Learning in Software
